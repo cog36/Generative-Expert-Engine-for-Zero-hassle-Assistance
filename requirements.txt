@@ -3,3 +3,4 @@ edge-tts
 python-dotenv
 sounddevice
 scipy
+openwakeword
